@@ -21,7 +21,7 @@ tags:
 
 两个档案站均由[星幻_StarRev](../人物/星幻_StarRev.md)（Rosmontis220）制作，**与 Silverfish_0 无关**：
 
-- **[SILVERFISH_0-Archive](https://github.com/Rosmontis220/SILVERFISH_0-Archive)** ——「断联前后的完整记录」：`archive/` 下镜像 wiki / forecast / number-of-motion / postal-terminal 的全部版本，哈希校验并跟进上游
+- **[SILVERFISH_0-Archive](https://archive.rosmontis220.top/)** ——「断联前后的完整记录」：`archive/` 下镜像 wiki / forecast / number-of-motion / postal-terminal 的全部版本，哈希校验并跟进上游
 - **[ARCHIVIST-Repository](https://github.com/Rosmontis220/ARCHIVIST-Repository)** ——「XIKM ARG 档案文明侧的文件留档」：静态档案站 [archivist.rosmontis220.top](https://archivist.rosmontis220.top/)
 
 本 wiki 亦由其建立维护。

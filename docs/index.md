@@ -15,10 +15,21 @@ tags:
 
 ## 友链
 
+本系列：
+
 - [**ARCHIVIST-Repository**](https://archivist.rosmontis220.top/) —— 档案文明侧材料档案站（下载 / 校验）
-- [**SILVERFISH_0-Archive**](https://github.com/Rosmontis220/SILVERFISH_0-Archive) —— 断联前后的完整记录（上游镜像）
+- [**SILVERFISH_0-Archive**](https://archive.rosmontis220.top/) —— 断联前后的完整记录（上游镜像）
 - [GitHub · 0-silverfish](https://github.com/0-silverfish) —— 邮路终端上游
 - [B 站 · XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061)
+
+站长其他项目：
+
+- [ARG-CREATOR](https://rosmontis220.github.io/ARG-CREATOR/) —— 帮助 ARG 酱做出一个好 ARG（类东方 STG）
+- [WIG Survivor（ARG-Survivors）](https://rosmontis220.github.io/ARG-Survivors/) —— 摧毁一个不存在的 ARG（幸存者 like）
+- [There-Is-No-ARG](https://rosmontis220.github.io/There-Is-No-ARG/) —— 寻找一个不存在的 ARG（吐槽解谜小游戏）
+- [WIGshot-Roulette](https://rosmontis220.github.io/WIGshot-Roulette/) —— WIG 轮盘赌（Buckshot Roulette 风）
+- [知名主播萨米失联事件](https://325.rosmontis220.top/) —— 明日方舟同人网页解谜游戏（WIG）
+- [终末地二测抽卡模拟器](https://rosmontis220.github.io/Endfield_Beta_Test_Gacha_Simulator/) —— 仅留档用
 
 !!! info "剧透分级"
     世界与人物条目基本不含解谜答案；各作品的「解谜流程」「结局」条目含完整答案，均以折叠块标注。
