@@ -13,6 +13,13 @@ tags:
 - [**Silverfish_0**](Silverfish_0/index.md) —— 另一侧的记录者：GitHub 据点与蠹巢笔记
 - [**缺页索引**](缺页索引.md) —— 已知存在、尚无资格写成条目的部分
 
+## 友链
+
+- [**ARCHIVIST-Repository**](https://archivist.rosmontis220.top/) —— 档案文明侧材料档案站（下载 / 校验）
+- [**SILVERFISH_0-Archive**](https://github.com/Rosmontis220/SILVERFISH_0-Archive) —— 断联前后的完整记录（上游镜像）
+- [GitHub · 0-silverfish](https://github.com/0-silverfish) —— 邮路终端上游
+- [B 站 · XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061)
+
 !!! info "剧透分级"
     世界与人物条目基本不含解谜答案；各作品的「解谜流程」「结局」条目含完整答案，均以折叠块标注。
 
