@@ -6,6 +6,19 @@ tags:
 
 # 视频【𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙】
 
-> 2026-08-11：音频频谱对话、水杯四进制（无/左/右/双 = 0/1/2/3）拼出 ABANDO，缺失的 N 指向下一集【ABANDON】。
+2026-08-11 20:39 发布（[BV1fnuz6eEh8](https://www.bilibili.com/video/BV1fnuz6eEh8/)）。
 
-**条目待编写。**
+简介第一行 `[HARBOR·MIST·ASH·MIRROR]`：
+
+> NO ORIGINAL DESCRIPTION EXISTS. This material was assembled from retained fragments. … Fragment order does not correspond to confirmed event order. … The Archive retained the event. It did not retain everything within it.
+> ⚠︎ Do not attempt to reconstruct what is absent. Absence is part of the record.
+
+## 解谜链
+
+- 视频 16s–34s 的音频导入软件查看频谱，是一段对话：
+  - — Does this have any special meaning?
+  - — No. Just.. One of my dreams.（这有什么特殊含义吗？不。只是我做的一个梦罢了。）
+- 桌子上的水杯共出现 4 种情况，为四进制：无水杯 0、左水杯 1、右水杯 2、双水杯 3
+- 按视频中所有画面解出 **ABANDO**——缺一个 N，而 N 被藏到了结尾
+
+所有谜题指向下一集：**【ABANDON】**
