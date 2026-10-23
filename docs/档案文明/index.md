@@ -8,8 +8,6 @@ tags:
 
 以“归档”为母题的 ARG 系列。材料散布在 B 站、GitHub、网盘与游戏本体内；**材料的发布时间不等于故事时间**。
 
-配套模块：[世界](../世界/index.md) · [人物](../人物/index.md) · [缺页索引](../缺页索引.md)
-
 作品：
 
 - [XIKM HLQA ONYIEN（B 站账号线）](作品/xikm-hlqa-onyien/index.md)

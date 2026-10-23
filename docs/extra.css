@@ -1,16 +1,20 @@
 /* 黑幕：悬停或选中后可见 */
 .heimu, .heimu a {
-  background-color: #25262a;
-  color: #25262a;
   border-radius: 3px;
   padding: 0 4px;
   text-decoration: none;
-  transition: color .2s ease;
 }
-.heimu:hover, .heimu:hover a {
-  color: inherit;
-}
-[data-md-color-scheme="default"] .heimu, [data-md-color-scheme="default"] .heimu a {
+[data-md-color-scheme="default"] .heimu,
+[data-md-color-scheme="default"] .heimu a {
   background-color: #b9b9bd;
   color: #b9b9bd;
+}
+[data-md-color-scheme="slate"] .heimu,
+[data-md-color-scheme="slate"] .heimu a {
+  background-color: #25262a;
+  color: #25262a;
+}
+.heimu:hover, .heimu:focus, .heimu:hover a, .heimu:focus a {
+  background-color: transparent;
+  color: inherit;
 }
