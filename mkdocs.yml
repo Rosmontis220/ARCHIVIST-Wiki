@@ -1,0 +1,67 @@
+site_name: ARCHIVIST Wiki
+site_url: https://wiki.rosmontis220.top/
+site_description: 档案文明 · Silverfish_0 —— ARG 知识库
+repo_url: https://github.com/Rosmontis220/ARCHIVIST-Wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - tags
+  - search
+
+nav:
+  - 首页: index.md
+  - 档案文明:
+      - 主题总览: 档案文明/index.md
+      - ABANDON:
+          - 系列: 档案文明/abandon/index.md
+          - FORM: 档案文明/abandon/form.md
+          - ORDER: 档案文明/abandon/order.md
+          - WITNESS: 档案文明/abandon/witness.md
+      - RETAIN:
+          - 系列: 档案文明/retain/index.md
+          - THRESHOLD: 档案文明/retain/threshold.md
+      - GROUP:
+          - 系列: 档案文明/group/index.md
+      - TRADE:
+          - 系列: 档案文明/trade/index.md
+      - REVIEW:
+          - 系列: 档案文明/review/index.md
+      - Terminal Cataloguing:
+          - 作品概览: 档案文明/terminal-cataloguing/index.md
+          - 世界与流程: 档案文明/terminal-cataloguing/世界与流程.md
+          - 任务表: 档案文明/terminal-cataloguing/任务表.md
+          - 物品图鉴: 档案文明/terminal-cataloguing/物品图鉴.md
+          - 方块: 档案文明/terminal-cataloguing/方块.md
+          - 残像图鉴: 档案文明/terminal-cataloguing/残像图鉴.md
+          - 交易所: 档案文明/terminal-cataloguing/交易所.md
+          - 机制与约束: 档案文明/terminal-cataloguing/机制与约束.md
+          - 结局与回执: 档案文明/terminal-cataloguing/结局与回执.md
+      - XYEBBS:
+          - 档案文明 BBS: 档案文明/xyebbs/index.md
+  - Silverfish_0:
+      - 主题总览: Silverfish_0/index.md
