@@ -8,7 +8,7 @@ backend:
 media_folder: docs/media
 public_folder: ../media
 
-site_url: https://wiki.rosmontis220.top/
+site_url: https://xikmwiki.rosmontis220.top/
 
 collections:
   - name: entries
