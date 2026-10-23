@@ -37,31 +37,50 @@ nav:
   - 首页: index.md
   - 档案文明:
       - 主题总览: 档案文明/index.md
-      - ABANDON:
-          - 系列: 档案文明/abandon/index.md
-          - FORM: 档案文明/abandon/form.md
-          - ORDER: 档案文明/abandon/order.md
-          - WITNESS: 档案文明/abandon/witness.md
-      - RETAIN:
-          - 系列: 档案文明/retain/index.md
-          - THRESHOLD: 档案文明/retain/threshold.md
-      - GROUP:
-          - 系列: 档案文明/group/index.md
-      - TRADE:
-          - 系列: 档案文明/trade/index.md
-      - REVIEW:
-          - 系列: 档案文明/review/index.md
-      - Terminal Cataloguing:
-          - 作品概览: 档案文明/terminal-cataloguing/index.md
-          - 世界与流程: 档案文明/terminal-cataloguing/世界与流程.md
-          - 任务表: 档案文明/terminal-cataloguing/任务表.md
-          - 物品图鉴: 档案文明/terminal-cataloguing/物品图鉴.md
-          - 方块: 档案文明/terminal-cataloguing/方块.md
-          - 残像图鉴: 档案文明/terminal-cataloguing/残像图鉴.md
-          - 交易所: 档案文明/terminal-cataloguing/交易所.md
-          - 机制与约束: 档案文明/terminal-cataloguing/机制与约束.md
-          - 结局与回执: 档案文明/terminal-cataloguing/结局与回执.md
-      - XYEBBS:
-          - 档案文明 BBS: 档案文明/xyebbs/index.md
+      - 世界观:
+          - 锚点与投影: 档案文明/锚点与投影.md
+          - 术语表: 档案文明/术语表.md
+          - 时间线: 档案文明/时间线.md
+      - 人物:
+          - 闻舟: 档案文明/人物/闻舟.md
+          - VHQ-4K/19: 档案文明/人物/VHQ-4K-19.md
+          - XIKM: 档案文明/人物/XIKM.md
+      - 作品:
+          - XIKM HLQA ONYIEN:
+              - 系列: 档案文明/作品/xikm-hlqa-onyien/index.md
+              - 账号与名字: 档案文明/作品/xikm-hlqa-onyien/账号与名字.md
+              - WEST: 档案文明/作品/xikm-hlqa-onyien/WEST.md
+              - fragment: 档案文明/作品/xikm-hlqa-onyien/fragment.md
+              - ABANDON发布视频: 档案文明/作品/xikm-hlqa-onyien/ABANDON发布.md
+          - ABANDON:
+              - 作品概览: 档案文明/作品/abandon/index.md
+              - 玩法与解谜: 档案文明/作品/abandon/玩法与解谜.md
+              - RETAIN与THRESHOLD: 档案文明/作品/abandon/RETAIN与THRESHOLD.md
+              - DAT文本: 档案文明/作品/abandon/DAT文本.md
+          - 邮路终端:
+              - 作品概览: 档案文明/作品/邮路终端/index.md
+              - 邮件谜题: 档案文明/作品/邮路终端/邮件谜题.md
+              - 线索梳理: 档案文明/作品/邮路终端/线索梳理.md
+          - 小游戏三部曲:
+              - 作品概览: 档案文明/作品/小游戏三部曲/index.md
+              - GROUP: 档案文明/作品/小游戏三部曲/GROUP.md
+              - TRADE: 档案文明/作品/小游戏三部曲/TRADE.md
+              - REVIEW: 档案文明/作品/小游戏三部曲/REVIEW.md
+              - 隐藏房间: 档案文明/作品/小游戏三部曲/隐藏房间.md
+              - 隐藏文本: 档案文明/作品/小游戏三部曲/隐藏文本.md
+              - 结局: 档案文明/作品/小游戏三部曲/结局.md
+          - Terminal Cataloguing:
+              - 作品概览: 档案文明/作品/terminal-cataloguing/index.md
+              - 世界与流程: 档案文明/作品/terminal-cataloguing/世界与流程.md
+              - 任务表: 档案文明/作品/terminal-cataloguing/任务表.md
+              - 物品图鉴: 档案文明/作品/terminal-cataloguing/物品图鉴.md
+              - 方块: 档案文明/作品/terminal-cataloguing/方块.md
+              - 残像图鉴: 档案文明/作品/terminal-cataloguing/残像图鉴.md
+              - 交易所: 档案文明/作品/terminal-cataloguing/交易所.md
+              - 机制与约束: 档案文明/作品/terminal-cataloguing/机制与约束.md
+              - 结局与回执: 档案文明/作品/terminal-cataloguing/结局与回执.md
+          - XYEBBS: 档案文明/作品/xyebbs/index.md
   - Silverfish_0:
       - 主题总览: Silverfish_0/index.md
+      - GitHub据点: Silverfish_0/GitHub据点.md
+      - 蠹巢笔记: Silverfish_0/蠹巢笔记.md
