@@ -29,6 +29,7 @@ theme:
     - navigation.sections
     - navigation.top
     - content.code.copy
+    - content.action.edit
 
 extra_css:
   - extra.css
