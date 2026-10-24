@@ -2,8 +2,8 @@ backend:
   name: github
   repo: Rosmontis220/ARCHIVIST-Wiki
   branch: main
-  auth_type: pkce
-  app_id: Ov23lixvDnHFGchXHkZS
+  base_url: https://xikmwiki.1142081338.workers.dev
+  auth_endpoint: /auth
 
 media_folder: docs/media
 public_folder: ../media
