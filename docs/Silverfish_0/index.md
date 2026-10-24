@@ -7,7 +7,7 @@ tags:
 
 # Silverfish_0
 
-<img src="../media/avatars/silverfish.jpg" alt="Silverfish_0 头像" width="144" style="float:right;margin:0 0 1.2rem 1.4rem;border-radius:10px" />
+<img src="../../media/avatars/silverfish.jpg" alt="Silverfish_0 头像" width="144" style="float:right;margin:0 0 1.2rem 1.4rem;border-radius:10px" />
 
 **公开材料里的调查者、整理者、发布者与引导者。**
 

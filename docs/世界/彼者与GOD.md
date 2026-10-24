@@ -62,7 +62,7 @@ silverfish_0 汉译的这份残本（收录号 AR-Σ / 000? / GOD）描述同一
 
 SILVERFISH_0 当时判断「那不是神。神不需要借权限，也不需要删除数据库」。
 
-<img src="../media/forum/GOD_SAYS背景.png" alt="调查维基 v3「GOD SAYS」页面背景" width="620" />
+<img src="../../media/forum/GOD_SAYS背景.png" alt="调查维基 v3「GOD SAYS」页面背景" width="620" />
 
 *调查维基 v3「GOD SAYS」页面背景*
 
