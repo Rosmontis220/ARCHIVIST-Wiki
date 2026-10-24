@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   font: false
   palette:
@@ -83,4 +84,3 @@ nav:
           - 模块概览: Silverfish_0/邮路终端/index.md
           - 邮件谜题: Silverfish_0/邮路终端/邮件谜题.md
       - GitHub据点: Silverfish_0/GitHub据点.md
-  - 缺页索引: 缺页索引.md
