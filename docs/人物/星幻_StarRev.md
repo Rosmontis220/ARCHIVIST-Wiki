@@ -14,5 +14,4 @@ tags:
 
 ## 参考来源
 
-- 本人提供（2026-10-23）
 - [腾讯文档《邮路终端解谜》](https://docs.qq.com/sheet/DVWpFakpIVmFSZkV1)（邮票二与 v1 模板碎片）
