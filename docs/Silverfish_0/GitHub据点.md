@@ -28,4 +28,5 @@ tags:
 
 ## 参考来源
 
-- GitHub API（2026-10-24 核实仓库与 Pages 地址）
+- [Silverfish-0](https://github.com/Silverfish-0) / [0-silverfish](https://github.com/0-silverfish) 各仓库
+- [SILVERFISH_0-Archive](https://archive.rosmontis220.top/) / [ARCHIVIST-Repository](https://archivist.rosmontis220.top/)（2026-10-24 经 GitHub API 核实）

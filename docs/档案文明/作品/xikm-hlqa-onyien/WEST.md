@@ -39,4 +39,6 @@ sealed.7z
 
 ## 参考来源
 
-- 腾讯文档①（WEST 视频简介、压缩包与 pack.png 解谜）
+- [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（视频简介、压缩包与 pack.png 解谜）
+- [west_edge_backup.zip](https://archivist.rosmontis220.top/archive/download/west_edge_backup.zip)
+- [视频【WEST】](https://www.bilibili.com/video/BV15Vub68EGm/)

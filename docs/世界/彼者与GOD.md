@@ -62,7 +62,12 @@ silverfish_0 汉译的这份残本（收录号 AR-Σ / 000? / GOD）描述同一
 
 SILVERFISH_0 当时判断「那不是神。神不需要借权限，也不需要删除数据库」。
 
+<img src="../media/forum/GOD_SAYS背景.png" alt="调查维基 v3「GOD SAYS」页面背景" width="620" />
+
+*调查维基 v3「GOD SAYS」页面背景*
+
 ## 参考来源
 
-- 《FULL DIALOGUE：UNSET ENTER》
-- 调查维基 v1/v2《THE EMPTY SEAT》、wiki v3 GOD SAYS
+- [《FULL DIALOGUE：UNSET ENTER》闻舟汉化 PDF](https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf)
+- [调查维基 v1](https://archive.rosmontis220.top/archive/wiki/v1/) / [v2](https://archive.rosmontis220.top/archive/wiki/v2/)《THE EMPTY SEAT》
+- [调查维基 v3（GOD SAYS）](https://archive.rosmontis220.top/archive/wiki/v3/)

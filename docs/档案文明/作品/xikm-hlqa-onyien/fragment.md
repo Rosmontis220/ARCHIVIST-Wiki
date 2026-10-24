@@ -25,4 +25,5 @@ tags:
 
 ## 参考来源
 
-- 腾讯文档①（fragment 音频频谱与水杯四进制）
+- [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（音频频谱与水杯四进制）
+- [视频【fragment】](https://www.bilibili.com/video/BV1fnuz6eEh8/)

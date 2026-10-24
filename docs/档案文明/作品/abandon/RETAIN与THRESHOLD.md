@@ -39,5 +39,6 @@ END RETURN
 
 ## 参考来源
 
-- 腾讯文档①（RETAIN / THRESHOLD 与终密码）
-- 《FULL DIALOGUE：UNSET ENTER》
+- [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（RETAIN / THRESHOLD 与终密码）
+- [RETAIN 线上版](https://archivist.rosmontis220.top/archive/retain/)
+- [《FULL DIALOGUE：UNSET ENTER》](https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf)

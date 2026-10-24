@@ -7,6 +7,8 @@ tags:
 
 # Silverfish_0
 
+<img src="../media/avatars/silverfish.jpg" alt="Silverfish_0 头像" width="144" style="float:right;margin:0 0 1.2rem 1.4rem;border-radius:10px" />
+
 **公开材料里的调查者、整理者、发布者与引导者。**
 
 ## 名字
@@ -46,5 +48,6 @@ tags:
 
 ## 参考来源
 
-- 调查维基 v1/v2（SILVERFISH_0 自述、断联协议）
-- GitHub 仓库 0-silverfish / Silverfish-0
+- [调查维基 v1](https://archive.rosmontis220.top/archive/wiki/v1/) / [v2](https://archive.rosmontis220.top/archive/wiki/v2/)（SILVERFISH_0 自述、断联协议）
+- [运动之数 / 本地连续性探针](https://archive.rosmontis220.top/archive/number-of-motion/)
+- [GitHub: Silverfish-0](https://github.com/Silverfish-0) / [0-silverfish](https://github.com/0-silverfish)

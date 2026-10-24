@@ -15,6 +15,6 @@ tags:
 
 ## 参考来源
 
-- 腾讯文档①（WEST 视频与压缩包解谜）
-- 调查维基 v1/v2《录像者甲》《THE EMPTY SEAT》
-- B 站首集【WEST】稿本
+- [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（WEST 视频与压缩包解谜）
+- [调查维基 v1](https://archive.rosmontis220.top/archive/wiki/v1/) / [v2](https://archive.rosmontis220.top/archive/wiki/v2/)《录像者甲》《THE EMPTY SEAT》
+- [视频【WEST】](https://www.bilibili.com/video/BV15Vub68EGm/)

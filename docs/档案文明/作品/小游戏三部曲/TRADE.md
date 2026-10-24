@@ -13,4 +13,5 @@ tags:
 
 ## 参考来源
 
-- 腾讯文档③（卡牌克制与四局流程）
+- [腾讯文档《小游戏三部曲解谜》](https://docs.qq.com/sheet/DVXB2ZmR1emZEVkhD)（卡牌克制与四局流程）
+- [TRADE 线上版](https://archivist.rosmontis220.top/archive/trade-web/)

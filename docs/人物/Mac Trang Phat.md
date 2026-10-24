@@ -27,4 +27,4 @@ STATUS: ACCEPTED
 
 ## 参考来源
 
-- 腾讯文档①（ABANDON 三端 DAT 文本）
+- [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（ABANDON 三端 DAT 文本）
