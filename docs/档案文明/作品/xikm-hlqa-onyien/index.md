@@ -12,3 +12,4 @@ B 站账号 [XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061) 串�
 - [视频【▓▒░WEST░▒▓】](WEST.md) —— Minecraft 存档与压缩包
 - [视频【𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙】](fragment.md) —— 水杯四进制，指向下一集
 - [视频【ABANDON】](ABANDON发布.md) —— 三端游戏发布
+- [解谜文档配图](配图.md)

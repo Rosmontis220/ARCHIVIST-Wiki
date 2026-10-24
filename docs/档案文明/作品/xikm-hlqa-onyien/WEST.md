@@ -10,7 +10,7 @@ tags:
 
 简介第一行 `[VEIL·EMBER·FERRY·QUAY]`：整理旧硬盘时翻到一个一年多没打开的 Minecraft 存档，重新进入后发现基地西边过河后的地形不正常；相关文件（west_edge_backup.zip）放网盘；解出有效文件请原样发送至 1315211150@qq.com，邮件标题「我找到了西边」；末尾 `VHQ-4K/19 has not registered on this platform.`「The original video has been saved.」
 
-玩家即 [AD](../../../人物/AD.md)（得到台本配合演出）。
+玩家即 [AD](../../../人物/ADsurfb0ard.md)（得到台本配合演出）。
 
 ## 解谜链
 

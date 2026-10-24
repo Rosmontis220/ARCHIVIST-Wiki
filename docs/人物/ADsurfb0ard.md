@@ -4,9 +4,9 @@ tags:
   - 档案文明
 ---
 
-# AD
+# ADsurfb0ard
 
-**AD**是 B 站首集【WEST】的主人公：旧 Minecraft 存档的玩家，西侧异常的发现者；在秘密论坛 THE EMPTY SEAT 中以 **ADsurfb0ard** 的身份发言。
+**ADsurfb0ard**是 B 站首集【WEST】的主人公：旧 Minecraft 存档的玩家，西侧异常的发现者；在秘密论坛 THE EMPTY SEAT 中以 **ADsurfb0ard** 的身份发言。
 
 - 他得到了一份台本，并配合完成了演出；
 - 在设定中，他是那座旧 Minecraft 存档的玩家：中文使用者，年纪不大，对旧存档有真实情感依赖；
