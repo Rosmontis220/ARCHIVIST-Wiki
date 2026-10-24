@@ -1,7 +1,6 @@
 ---
 tags:
   - 人物
-  - 现实层
   - 档案文明
 ---
 
@@ -9,7 +8,7 @@ tags:
 
 **材料的接收者、整理者或中转者。**
 
-- B 站账号 [XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061)：发布 WEST / fragment / ABANDON 三个视频与相关动态，同时维护腾讯文档解谜页与「邮路终端解谜」表格文档；
+- B 站账号 [XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061)：发布 WEST / fragment / ABANDON 三个视频与相关动态；
 - 账号真名经凯撒（逐词偏移 0/3/1/7）+ 维吉尼亚（密钥 mist）解出为 **LAST SAVE BEFORE RAIN**；
 - 简介原文：
 
