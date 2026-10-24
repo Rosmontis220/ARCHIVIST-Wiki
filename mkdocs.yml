@@ -6,7 +6,6 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  custom_dir: overrides
   language: zh
   font: false
   palette:
@@ -40,6 +39,7 @@ plugins:
 
 nav:
   - 首页: index.md
+  - 编写规范: 编写规范.md
   - 档案文明:
       - 主题总览: 档案文明/index.md
       - 作品:
