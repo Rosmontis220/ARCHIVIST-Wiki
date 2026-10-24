@@ -23,6 +23,32 @@ tags:
 
 所有谜题指向下一集：**【ABANDON】**
 
+
+<figure>
+  <img src="../../../../media/doc1/pic26.png" width="620" loading="lazy" alt="音频频谱图：16s–34s 的对话（Does this have any special meaning? … One of my dreams）" />
+  <figcaption>音频频谱图：16s–34s 的对话（Does this have any special meaning? … One of my dreams）</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic27.png" width="480" loading="lazy" alt="B 站视频页截图（FRAGMENTS）" />
+  <figcaption>B 站视频页截图（FRAGMENTS）</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic28.png" width="480" loading="lazy" alt="B 站播放器截图" />
+  <figcaption>B 站播放器截图</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic29.png" width="480" loading="lazy" alt="B 站视频页截图" />
+  <figcaption>B 站视频页截图</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic30.png" width="480" loading="lazy" alt="FRAGMENTS 标题帧" />
+  <figcaption>FRAGMENTS 标题帧</figcaption>
+</figure>
+
 ## 参考来源
 
 - [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（音频频谱与水杯四进制）

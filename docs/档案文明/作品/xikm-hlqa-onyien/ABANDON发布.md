@@ -23,6 +23,27 @@ tags:
 
 三个端各 v0.0.0，下载见 [ABANDON 作品页](../abandon/index.md)。Form 端的隐藏第四关尚未解出，见 [RETAIN 与 THRESHOLD](../abandon/RETAIN与THRESHOLD.md)。
 
+
+<figure>
+  <img src="../../../../media/doc1/pic32.png" width="520" loading="lazy" alt="ABANDON 开始界面：PRESS ANY KEY" />
+  <figcaption>ABANDON 开始界面：PRESS ANY KEY</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic33.png" width="520" loading="lazy" alt="ORDER 令牌：R1-O-C3RSF073-0370" />
+  <figcaption>ORDER 令牌：R1-O-C3RSF073-0370</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic34.png" width="520" loading="lazy" alt="FERRY 令牌：TWO SHORES CAN CROSS" />
+  <figcaption>FERRY 令牌：TWO SHORES CAN CROSS</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../../media/doc1/pic36.png" width="520" loading="lazy" alt="ABANDON 游戏内界面" />
+  <figcaption>ABANDON 游戏内界面</figcaption>
+</figure>
+
 ## 参考来源
 
 - [腾讯文档《XIKM HLQA ONYIEN 解谜》](https://docs.qq.com/doc/DZURVVXJkS1NZWFNq)（ABANDON 视频简介全文）
