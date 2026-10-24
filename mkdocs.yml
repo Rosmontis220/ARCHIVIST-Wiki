@@ -38,8 +38,10 @@ plugins:
   - search
 
 nav:
-  - 首页: index.md
-  - 编写规范: 编写规范.md
+  - 首页:
+      - 首页: index.md
+      - 入门: 入门.md
+      - 编写规范: 编写规范.md
   - 档案文明:
       - 主题总览: 档案文明/index.md
       - 作品:
