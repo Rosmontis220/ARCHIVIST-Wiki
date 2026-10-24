@@ -12,7 +12,7 @@ tags:
 - [**档案文明**](档案文明/index.md) —— 以“归档/留存”为母题的系列作品：B 站账号线 **XIKM HLQA ONYIEN**、三端解谜游戏 **ABANDON**、网页游戏 **小游戏三部曲**（GROUP / TRADE / REVIEW）
 - [**世界**](世界/index.md) —— 世界观与设定：锚点与投影、彼者与GOD、归档中继、十只蠹虫、术语表、时间线
 - [**人物**](人物/index.md) —— 闻舟、ADsurfb0ard、Mac Trang Phat、XIKM、星幻_StarRev、四名协助者
-- [**Silverfish_0**](Silverfish_0/index.md) —— 另一侧的记录者：邮路终端、GitHub 据点与蠹巢笔记
+- [**Silverfish_0**](Silverfish_0/index.md) —— 另一侧的记录者：邮路终端与 GitHub 据点
 - [**缺页索引**](缺页索引.md) —— 已知存在、尚无资格写成条目的部分
 
 ## 友链
