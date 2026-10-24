@@ -1,0 +1,10 @@
+name = "archivist-decap-oauth"
+main = "worker.js"
+compatibility_date = "2026-10-24"
+
+[vars]
+ADMIN_URL = "https://xikmwiki.rosmontis220.top/admin/"
+
+# CLIENT_ID 与 CLIENT_SECRET 用 secret 注入，不要写进本文件：
+#   npx wrangler secret put CLIENT_ID
+#   npx wrangler secret put CLIENT_SECRET
