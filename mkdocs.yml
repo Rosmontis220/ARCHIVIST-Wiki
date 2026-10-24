@@ -66,7 +66,13 @@ nav:
               - 隐藏房间: 档案文明/作品/小游戏三部曲/隐藏房间.md
               - 隐藏文本: 档案文明/作品/小游戏三部曲/隐藏文本.md
               - 结局: 档案文明/作品/小游戏三部曲/结局.md
-  - 世界:
+  - Silverfish_0:
+      - 主题总览: Silverfish_0/index.md
+      - 邮路终端:
+          - 模块概览: Silverfish_0/邮路终端/index.md
+          - 邮件谜题: Silverfish_0/邮路终端/邮件谜题.md
+      - GitHub据点: Silverfish_0/GitHub据点.md
+  - 世界观:
       - 模块总览: 世界/index.md
       - 锚点与投影: 世界/锚点与投影.md
       - 彼者与GOD: 世界/彼者与GOD.md
@@ -81,9 +87,3 @@ nav:
       - XIKM: 人物/XIKM.md
       - 星幻_StarRev: 人物/星幻_StarRev.md
       - dreaMRan与四名协助者: 人物/协助者.md
-  - Silverfish_0:
-      - 主题总览: Silverfish_0/index.md
-      - 邮路终端:
-          - 模块概览: Silverfish_0/邮路终端/index.md
-          - 邮件谜题: Silverfish_0/邮路终端/邮件谜题.md
-      - GitHub据点: Silverfish_0/GitHub据点.md
