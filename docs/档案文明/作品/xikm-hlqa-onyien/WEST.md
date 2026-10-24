@@ -10,7 +10,7 @@ tags:
 
 简介第一行 `[VEIL·EMBER·FERRY·QUAY]`：整理旧硬盘时翻到一个一年多没打开的 Minecraft 存档，重新进入后发现基地西边过河后的地形不正常；相关文件（west_edge_backup.zip）放网盘；解出有效文件请原样发送至 1315211150@qq.com，邮件标题「我找到了西边」；末尾 `VHQ-4K/19 has not registered on this platform.`「The original video has been saved.」
 
-视频主人公（调查维基编号「录像者甲」）由 [AD](../../../人物/ADsurfb0ard.md) 扮演：AD 是本 ARG 玩家之一，拿到台本后配合完成了演出。
+视频主人公即 [AD](../../../人物/ADsurfb0ard.md) 本人，调查维基对他的临时编号是「录像者甲」——两种称呼指的是同一个人；他在视频中拿到一份台本并配合完成了演出。
 
 
 <figure>
