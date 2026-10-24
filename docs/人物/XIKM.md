@@ -6,7 +6,7 @@ tags:
 
 # XIKM
 
-**材料的接收者、整理者或中转者。**
+**XIKM**是档案文明材料的接收者、整理者或中转者（文档①·线索梳理），即 B 站账号 XIKM_HLQA_ONYIEN 的运营者；账号本名经解谜得出为 **LAST SAVE BEFORE RAIN**。
 
 - B 站账号 [XIKM_HLQA_ONYIEN](https://space.bilibili.com/3493126603803061)：发布 WEST / fragment / ABANDON 三个视频与相关动态；
 - 账号真名经凯撒（逐词偏移 0/3/1/7）+ 维吉尼亚（密钥 mist）解出为 **LAST SAVE BEFORE RAIN**；
@@ -19,3 +19,7 @@ tags:
 「但我不是那位档案保管员」——与在职档案员[闻舟](闻舟.md)形成对照。
 
 XIKM 更像材料的**中转口**而不是任何事件的当事人：名字本身（XIKM HLQA ONYIEN）在凯撒、Atbash、倒序下均未解出有意义文本，暂视为风格化 ID；「HLQA ONYIEN」待考。
+
+## 参考来源
+
+- 腾讯文档①《XIKM HLQA ONYIEN 解谜》（账号与名字破解链、线索梳理）

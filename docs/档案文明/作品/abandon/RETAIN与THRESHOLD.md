@@ -36,3 +36,8 @@ END RETURN
 ```
 
 主题：**WE WILL (NOT) CROSS**——对应对话末尾的选择：「尔等解开此记录之人：尔等愿前往档案馆，还是留在如今这片海岸？」
+
+## 参考来源
+
+- 腾讯文档①（RETAIN / THRESHOLD 与终密码）
+- 《FULL DIALOGUE：UNSET ENTER》

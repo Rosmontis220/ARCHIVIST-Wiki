@@ -22,3 +22,7 @@ tags:
 > FORM is complete after three entries. The next number is still accepted.
 
 三个端各 v0.0.0，下载见 [ABANDON 作品页](../abandon/index.md)。Form 端的隐藏第四关尚未解出，见 [RETAIN 与 THRESHOLD](../abandon/RETAIN与THRESHOLD.md)。
+
+## 参考来源
+
+- 腾讯文档①（ABANDON 视频简介全文）

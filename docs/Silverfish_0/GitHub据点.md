@@ -25,3 +25,7 @@ tags:
 - **[ARCHIVIST-Repository](https://github.com/Rosmontis220/ARCHIVIST-Repository)** ——「XIKM ARG 档案文明侧的文件留档」：静态档案站 [archivist.rosmontis220.top](https://archivist.rosmontis220.top/)
 
 本 wiki 亦由其建立维护。
+
+## 参考来源
+
+- GitHub API（2026-10-24 核实仓库与 Pages 地址）

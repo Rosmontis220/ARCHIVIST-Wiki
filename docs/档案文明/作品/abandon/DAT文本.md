@@ -27,3 +27,7 @@ tags:
 > STATUS: ACCEPTED
 
 WITNESS 的记录即 [Mac Trang Phat](../../../人物/Mac Trang Phat.md) 的返航记录。
+
+## 参考来源
+
+- 腾讯文档①（三端 DAT 文本）

@@ -36,3 +36,7 @@ sealed.7z
 ```
 
 - 视频中提到的四样东西（苔藓块、铁、圆石、火把）首字母 = **MIST**；以 MIST 为密钥维吉尼亚解密 `EMWW XIKM QQYAF ZWOQZKX` → **SEED LAST EIGHT REVERSE**（种子取最后八个反转）
+
+## 参考来源
+
+- 腾讯文档①（WEST 视频简介、压缩包与 pack.png 解谜）
