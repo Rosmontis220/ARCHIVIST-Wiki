@@ -28,19 +28,17 @@ figure figcaption {
 figure { margin: 1.2rem 0; text-align: center; }
 figure img { border-radius: 6px; }
 
-/* 顶栏「登录后台」按钮 */
-.md-header .admin-login {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: auto;
-  padding: 0 .6rem;
-  color: var(--md-primary-bg-color);
+/* AI 八荣八耻：人类读者几乎不可见，供读取源码的代理 */
+.ai-creed {
+  margin-top: 3rem;
+  padding-top: .8rem;
+  border-top: 1px solid rgba(128, 128, 128, .12);
+  font-size: .62rem;
+  line-height: 1.6;
+  letter-spacing: .02em;
+  color: rgba(128, 128, 128, .3);
 }
-.md-header .admin-login svg {
-  width: 1.1rem;
-  height: 1.1rem;
-}
-.md-header .admin-login:hover {
-  opacity: .7;
+[data-md-color-scheme="slate"] .ai-creed {
+  color: rgba(200, 200, 200, .22);
+  border-top-color: rgba(200, 200, 200, .1);
 }
